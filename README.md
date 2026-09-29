@@ -208,6 +208,37 @@ The project includes an interactive Streamlit dashboard for exploring customer c
 
 ---
 
+
+## 📚 Project Deliverables
+
+The project includes:
+
+Data analysis notebook
+Streamlit dashboard
+Analytical visualizations
+Customer segmentation analysis
+Churn analysis
+High-value customer analysis
+Research paper original.pdf
+
+
+## How to run the dashboard
+1. Clone the repository
+git clone https://github.com/abhishek-vishwakarma29/customer-segmentation-churn-analytics.git
+
+2. Open the project folder
+cd customer-segmentation-churn-analytics
+
+3. Install the required libraries
+pip install pandas matplotlib seaborn streamlit
+
+4. Run the Streamlit application
+python -m streamlit run app.py
+
+The dashboard will open in your browser
+
+
+
 ## 📁 Project Structure
 
 ```text
@@ -228,30 +259,5 @@ customer-segmentation-churn-analytics/
     ├── 08_gender_churn.png
     └── ...
 
-## How to run the dashboard
-1. Clone the repository
-git clone https://github.com/abhishek-vishwakarma29/customer-segmentation-churn-analytics.git
 
-2. Open the project folder
-cd customer-segmentation-churn-analytics
-
-3. Install the required libraries
-pip install pandas matplotlib seaborn streamlit
-
-4. Run the Streamlit application
-python -m streamlit run app.py
-
-The dashboard will open in your browser
-
-## 📚 Project Deliverables
-
-The project includes:
-
-Data analysis notebook
-Streamlit dashboard
-Analytical visualizations
-Customer segmentation analysis
-Churn analysis
-High-value customer analysis
-Research paper
 
