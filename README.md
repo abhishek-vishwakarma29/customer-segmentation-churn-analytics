@@ -182,6 +182,20 @@ The dashboard also provides:
 
 ---
 
+
+## 🖥️ Dashboard Preview
+
+The project includes an interactive Streamlit dashboard for exploring customer churn patterns, customer segments, engagement, and financial characteristics.
+
+### Dashboard Overview
+
+![Dashboard Overview](Figures/17_dashboard_overview.png)
+
+### Segment Analysis
+
+![Segment Analysis](Figures/18_dashboard_segments.png)
+
+
 ## 🛠️ Technologies Used
 
 - Python
@@ -213,3 +227,31 @@ customer-segmentation-churn-analytics/
     ├── 07_geography_age_heatmap.png
     ├── 08_gender_churn.png
     └── ...
+
+## How to run the dashboard
+1. Clone the repository
+git clone https://github.com/abhishek-vishwakarma29/customer-segmentation-churn-analytics.git
+
+2. Open the project folder
+cd customer-segmentation-churn-analytics
+
+3. Install the required libraries
+pip install pandas matplotlib seaborn streamlit
+
+4. Run the Streamlit application
+python -m streamlit run app.py
+
+The dashboard will open in your browser
+
+## 📚 Project Deliverables
+
+The project includes:
+
+Data analysis notebook
+Streamlit dashboard
+Analytical visualizations
+Customer segmentation analysis
+Churn analysis
+High-value customer analysis
+Research paper
+
